@@ -1,9 +1,9 @@
 # SharePoint-Javacript-CopyItems-Solution
 This solution adds a "Copy Files" button to the ribbon, to allow a user to copy items to a target library in SharePoint.
-![Example](https://raw.githubusercontent.com/martinpyman/SharePoint-Javacript-CopyItems-Solution/master/screen1.aspx)
+![Example](https://raw.githubusercontent.com/martinpyman/SharePoint-Javacript-CopyItems-Solution/master/screen1.png)
 
 A drop down is populated with the Document Sets found in the Target library.
-![Drop down](https://raw.githubusercontent.com/martinpyman/SharePoint-Javacript-CopyItems-Solution/master/screen2.aspx)
+![Drop down](https://raw.githubusercontent.com/martinpyman/SharePoint-Javacript-CopyItems-Solution/master/screen2.png)
 
 This solution is useful for SharePoint 2016 which is lacking this functionality and you are restricted in deploying a SharePoint app.
 (This has only been tested on SP2016!)
